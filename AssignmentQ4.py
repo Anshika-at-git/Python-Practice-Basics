@@ -1,0 +1,6 @@
+val = input("Enter a number: ")
+val_int = int(val)
+val_float = float(val)
+print(val_int, type(val_int))
+print(val_float, type(val_float))
+print(val, type(val))
